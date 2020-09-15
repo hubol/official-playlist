@@ -32,6 +32,9 @@ blockquote {
 body {
     background-color: #FDF36C;
     color: #DF5646;
+}
+
+p, a, i, blockquote {
     font-size: 16px;
 }
 
