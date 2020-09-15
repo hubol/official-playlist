@@ -12,6 +12,7 @@ header {
 h1 {
     display: inline-block;
 
+    font-size: 32px;
     font-weight: 700;
     margin: 28px auto;
     padding: 6px 12px;
@@ -31,6 +32,7 @@ blockquote {
 body {
     background-color: #FDF36C;
     color: #DF5646;
+    font-size: 16px;
 }
 
 main > ul {
